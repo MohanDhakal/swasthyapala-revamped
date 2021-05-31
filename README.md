@@ -1,5 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="http://beta.swasthyapala.com/logo.png" width="200"></a></p>
 <h3 style="text-align:center">swasthyapala</h3>
+check the project <a href="http://beta.swasthyapala.com/">here</a>
 
 ## About swasthyapala
 
