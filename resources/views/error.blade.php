@@ -9,6 +9,7 @@
 
 <body>
     <h5> {{ $error ?? 'This is error page' }}</h5>
+    
 </body>
 
 </html>
